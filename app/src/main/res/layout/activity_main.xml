@@ -20,12 +20,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
-            android:background="@drawable/dota">
+            android:background="@drawable/header">
 
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="185dp"
-                android:background="@drawable/dota">
+                android:background="@drawable/header">
 
 
                 <TextView
@@ -34,7 +34,7 @@
                     android:layout_alignParentTop="true"
                     android:layout_marginStart="27dp"
                     android:layout_marginTop="82dp"
-                    android:text="MoveeApp"
+                    android:text="Dota API"
                     android:textColor="#FFFFFF"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -45,7 +45,7 @@
                     android:layout_alignParentTop="true"
                     android:layout_marginStart="27dp"
                     android:layout_marginTop="110dp"
-                    android:text="List of Movie Recomendations"
+                    android:text="List of Dota Heroes"
                     android:textColor="#FFFFFF"
                     android:textSize="15sp"
                     android:textStyle="italic" />
