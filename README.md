@@ -21,7 +21,7 @@ API atau Application Programming Interface adalah sebuah interface yang dapat me
 
 - Cara kerja API 
 
-![alt text](MovieProject/api.jpg)
+![alt text](DotaApi/api.jpg)
 
 1. Aplikasi mengakses API
 
