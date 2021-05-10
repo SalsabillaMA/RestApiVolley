@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -20,7 +21,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
-            android:background="@drawable/header">
+            android:background="@drawable/header"
+            app:cardCornerRadius="16dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -59,7 +61,8 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_hero"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="#D8D8D8">
 
     </androidx.recyclerview.widget.RecyclerView>
 
