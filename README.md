@@ -2,9 +2,9 @@
 
 - Hasil Aplikasi 
 
-![alt text](DotaApi/app.gif)
+![alt text](DotaApi/App.gif)
 
-![alt text](DotaApi/app.jpg)
+![alt text](DotaApi/App.jpg)
 
 
 # API
